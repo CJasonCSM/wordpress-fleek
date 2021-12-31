@@ -1,0 +1,4 @@
+@import url("../salient/style.css");
+#post-area.masonry article.post .post-meta {display: none !important;}
+.post-content .content-inner {border-bottom: none !important;margin-bottom: 0;padding-bottom: 0;}
+article.post .post-content {min-height: 88px;}
