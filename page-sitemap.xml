@@ -1,271 +1,271 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//OFFLINEZIP.wpshowp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//csmwp.on.fleek.co/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://OFFLINEZIP.wpsho</loc>
+		<loc>https://csmwp.on.fleek.co/</loc>
 		<lastmod>2016-12-17T20:42:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshohosting/</loc>
+		<loc>https://csmwp.on.fleek.co/hosting/</loc>
 		<lastmod>2015-06-25T20:33:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshofrontpage/</loc>
+		<loc>https://csmwp.on.fleek.co/frontpage/</loc>
 		<lastmod>2016-01-20T03:08:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshocontact-us/</loc>
+		<loc>https://csmwp.on.fleek.co/contact-us/</loc>
 		<lastmod>2016-06-10T21:37:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/toronto-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/toronto-seo-services/</loc>
 		<lastmod>2016-11-01T18:34:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/hamilton-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/hamilton-seo-services/</loc>
 		<lastmod>2016-11-03T17:59:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshomanitoba/</loc>
+		<loc>https://csmwp.on.fleek.co/manitoba/</loc>
 		<lastmod>2016-11-03T19:57:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshosaskatchewan/</loc>
+		<loc>https://csmwp.on.fleek.co/saskatchewan/</loc>
 		<lastmod>2016-11-03T20:12:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoalberta/</loc>
+		<loc>https://csmwp.on.fleek.co/alberta/</loc>
 		<lastmod>2016-11-03T20:38:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshobritish-columbia/</loc>
+		<loc>https://csmwp.on.fleek.co/british-columbia/</loc>
 		<lastmod>2016-11-03T20:39:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoquebec/</loc>
+		<loc>https://csmwp.on.fleek.co/quebec/</loc>
 		<lastmod>2016-11-03T20:44:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshonew-brunswick/</loc>
+		<loc>https://csmwp.on.fleek.co/new-brunswick/</loc>
 		<lastmod>2016-11-03T20:45:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoprince-edward-island/</loc>
+		<loc>https://csmwp.on.fleek.co/prince-edward-island/</loc>
 		<lastmod>2016-11-03T20:58:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshonewfoundland/</loc>
+		<loc>https://csmwp.on.fleek.co/newfoundland/</loc>
 		<lastmod>2016-11-03T21:08:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/</loc>
 		<lastmod>2016-11-03T21:16:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshobritish-columbia/surrey-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/british-columbia/surrey-digital-marketing-services/</loc>
 		<lastmod>2016-11-04T14:28:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshobritish-columbia/surrey-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/british-columbia/surrey-web-design-services/</loc>
 		<lastmod>2016-11-04T14:33:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/brampton-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/brampton-web-design-services/</loc>
 		<lastmod>2016-11-04T15:43:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/brampton-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/brampton-seo-services/</loc>
 		<lastmod>2016-11-04T15:47:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/brampton-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/brampton-digital-marketing-services/</loc>
 		<lastmod>2016-11-04T15:51:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshobritish-columbia/vancouver-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/british-columbia/vancouver-digital-marketing-services/</loc>
 		<lastmod>2016-11-04T15:56:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshobritish-columbia/vancouver-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/british-columbia/vancouver-web-design-services/</loc>
 		<lastmod>2016-11-04T15:59:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshobritish-columbia/vancouver-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/british-columbia/vancouver-seo-services/</loc>
 		<lastmod>2016-11-04T16:03:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshomanitoba/winnipeg-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/manitoba/winnipeg-digital-marketing-services/</loc>
 		<lastmod>2016-11-04T16:07:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshomanitoba/winnipeg-digital-marketing-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/manitoba/winnipeg-digital-marketing-services-2/</loc>
 		<lastmod>2016-11-04T16:11:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshomanitoba/winnipeg-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/manitoba/winnipeg-seo-services/</loc>
 		<lastmod>2016-11-04T16:14:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/mississauga-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/mississauga-digital-marketing-services/</loc>
 		<lastmod>2016-11-04T16:19:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/mississauga-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/mississauga-web-design-services/</loc>
 		<lastmod>2016-11-04T16:22:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/mississauga-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/mississauga-seo-services/</loc>
 		<lastmod>2016-11-04T16:25:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoalberta/edmonton-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/alberta/edmonton-web-design-services/</loc>
 		<lastmod>2016-11-04T16:28:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoalberta/edmonton-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/alberta/edmonton-digital-marketing-services/</loc>
 		<lastmod>2016-11-04T16:35:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/ottawa-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/ottawa-web-design-services/</loc>
 		<lastmod>2016-11-04T17:05:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/ottawa-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/ottawa-digital-marketing-services/</loc>
 		<lastmod>2016-11-04T17:15:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoalberta/calgary-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/alberta/calgary-seo-services/</loc>
 		<lastmod>2016-11-04T17:30:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/toronto-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/toronto-web-design-services/</loc>
 		<lastmod>2016-11-07T11:05:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/toronto-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/toronto-digital-marketing-services/</loc>
 		<lastmod>2016-11-07T11:10:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/kingston-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/kingston-seo-services/</loc>
 		<lastmod>2016-11-07T11:28:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/london-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/london-seo-services/</loc>
 		<lastmod>2016-11-07T11:50:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/timmins-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/timmins-seo-services/</loc>
 		<lastmod>2016-11-07T12:24:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/barrie-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/barrie-seo-services/</loc>
 		<lastmod>2016-11-07T12:26:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoalberta/calgary-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/alberta/calgary-digital-marketing-services/</loc>
 		<lastmod>2016-11-07T16:53:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoalberta/calagary-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/alberta/calagary-seo-services/</loc>
 		<lastmod>2016-11-11T13:18:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshonova-scotia/</loc>
+		<loc>https://csmwp.on.fleek.co/nova-scotia/</loc>
 		<lastmod>2016-11-11T16:30:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshonova-scotia/halifax-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/nova-scotia/halifax-web-design-services/</loc>
 		<lastmod>2016-11-11T17:28:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshonova-scotia/halifax-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/nova-scotia/halifax-digital-marketing-services/</loc>
 		<lastmod>2016-11-11T17:30:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/hamilton-seo-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/hamilton-seo-services-2/</loc>
 		<lastmod>2016-11-14T13:10:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/brampton-seo-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/brampton-seo-services-2/</loc>
 		<lastmod>2016-11-14T13:12:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshobritish-columbia/vancouver-digital-marketing-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/british-columbia/vancouver-digital-marketing-services-2/</loc>
 		<lastmod>2016-11-14T13:13:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshomanitoba/winnipeg-seo-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/manitoba/winnipeg-seo-services-2/</loc>
 		<lastmod>2016-11-14T13:15:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/mississauga-digital-marketing-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/mississauga-digital-marketing-services-2/</loc>
 		<lastmod>2016-11-14T13:17:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoalberta/edmonton-seo-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/alberta/edmonton-seo-services-2/</loc>
 		<lastmod>2016-11-14T13:19:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/toronto-seo-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/toronto-seo-services-2/</loc>
 		<lastmod>2016-11-17T15:06:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshonova-scotia/halifax-digital-marketing-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/nova-scotia/halifax-digital-marketing-services-2/</loc>
 		<lastmod>2016-11-17T15:20:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoalberta/calgary-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/alberta/calgary-web-design-services/</loc>
 		<lastmod>2016-11-17T15:24:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshobritish-columbia/surrey-seo-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/british-columbia/surrey-seo-services-2/</loc>
 		<lastmod>2016-11-17T15:53:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/ottawa-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/ottawa-seo-services/</loc>
 		<lastmod>2016-11-17T18:01:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/hamilton-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/hamilton-web-design-services/</loc>
 		<lastmod>2016-11-18T12:26:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/hamilton-web-design-sevices/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/hamilton-web-design-sevices/</loc>
 		<lastmod>2016-11-18T12:30:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/markham-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/markham-digital-marketing-services/</loc>
 		<lastmod>2016-12-05T14:51:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/markham-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/markham-web-design-services/</loc>
 		<lastmod>2016-12-05T14:54:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/markham-seo-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/markham-seo-services/</loc>
 		<lastmod>2016-12-05T14:56:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/london-digital-marketing-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/london-digital-marketing-services/</loc>
 		<lastmod>2016-12-05T15:17:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/london-seo-services-2/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/london-seo-services-2/</loc>
 		<lastmod>2016-12-05T15:19:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoontario/london-web-design-services/</loc>
+		<loc>https://csmwp.on.fleek.co/ontario/london-web-design-services/</loc>
 		<lastmod>2016-12-05T15:21:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoabout/</loc>
+		<loc>https://csmwp.on.fleek.co/about/</loc>
 		<lastmod>2016-12-05T19:20:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshomarketing-tips/</loc>
+		<loc>https://csmwp.on.fleek.co/marketing-tips/</loc>
 		<lastmod>2016-12-07T21:09:39+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://OFFLINEZIP.wpshoportfolio-roll/</loc>
+		<loc>https://csmwp.on.fleek.co/portfolio-roll/</loc>
 		<lastmod>2017-04-03T18:55:09+00:00</lastmod>
 	</url>
 </urlset>
