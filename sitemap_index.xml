@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//csmwp.on.fleek.co/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//privledge.crypto/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://csmwp.on.fleek.co/post-sitemap.xml</loc>
+		<loc>http://privledge.crypto/post-sitemap.xml</loc>
 		<lastmod>2021-02-12T19:30:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://csmwp.on.fleek.co/page-sitemap.xml</loc>
+		<loc>http://privledge.crypto/page-sitemap.xml</loc>
 		<lastmod>2021-02-02T20:55:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://csmwp.on.fleek.co/testimonials-sitemap.xml</loc>
+		<loc>http://privledge.crypto/testimonials-sitemap.xml</loc>
 		<lastmod>2016-12-01T23:00:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://csmwp.on.fleek.co/portfolio-sitemap.xml</loc>
+		<loc>http://privledge.crypto/portfolio-sitemap.xml</loc>
 		<lastmod>2017-04-03T19:28:49+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://csmwp.on.fleek.co/category-sitemap.xml</loc>
+		<loc>http://privledge.crypto/category-sitemap.xml</loc>
 		<lastmod>2021-02-12T19:30:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://csmwp.on.fleek.co/testimonial_category-sitemap.xml</loc>
+		<loc>http://privledge.crypto/testimonial_category-sitemap.xml</loc>
 		<lastmod>2016-12-01T23:00:23+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
