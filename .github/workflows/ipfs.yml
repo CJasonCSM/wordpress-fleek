@@ -39,5 +39,5 @@ jobs:
         id: upload
         uses: aquiladev/ipfs-action@v0.2.1-alpha.4
         with:
-          path: ./
+          path: ../../../
           verbose: true
