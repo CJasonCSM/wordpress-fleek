@@ -36,6 +36,7 @@ jobs:
       #    echo test, and deploy your project.
           
       - name: Upload to IPFS
-        uses: aquiladev/ipfs-action@v0.2.1-alpha.4
+        uses: aquiladev/ipfs-action@v0.1.1
+        id: upload
         with:
-          path: ./
+          path: ./build
