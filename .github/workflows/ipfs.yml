@@ -40,3 +40,4 @@ jobs:
         id: upload
         with:
           path: ./build
+          timeout: 300000
