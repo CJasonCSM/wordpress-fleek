@@ -30,12 +30,12 @@ jobs:
         run: echo Hello, world!
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+      #- name: Run a multi-line script
+      #  run: |
+      #    echo Add other actions to build,
+      #    echo test, and deploy your project.
           
       - name: Upload to IPFS
-        uses: aquiladev/ipfs-action@v1
+        uses: aquiladev/ipfs-action@v0.2.1-alpha.4
         with:
           path: ./
